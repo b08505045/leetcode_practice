@@ -1,0 +1,1 @@
+cout << "dp[" << amount << "] = " << dp[amount] << '\n';
