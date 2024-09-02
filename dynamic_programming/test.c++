@@ -16,7 +16,6 @@ public:
 int main () {
     int n = 3;
     vector<vector<bool>> v(n, vector<bool> (n, false));
-    
     for(auto &v1 : v){
         for(auto &v2 : v1){
             cout << v2 << ',';
